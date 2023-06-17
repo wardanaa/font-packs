@@ -1,0 +1,12 @@
+/* Webfont: ZTYaglo-SemiBold */@font-face {
+    font-family: 'ZTYagloSemBd';
+    src: url('ZTYaglo-SemiBold.eot'); /* IE9 Compat Modes */
+    src: url('ZTYaglo-SemiBold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('ZTYaglo-SemiBold.woff') format('woff'), /* Modern Browsers */
+         url('ZTYaglo-SemiBold.woff2') format('woff2'), /* Modern Browsers */
+         url('ZTYaglo-SemiBold.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

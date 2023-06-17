@@ -1,0 +1,12 @@
+/* Webfont: ZTYaglo-ExtraLight */@font-face {
+    font-family: 'ZTYagloExtLt';
+    src: url('ZTYaglo-ExtraLight.eot'); /* IE9 Compat Modes */
+    src: url('ZTYaglo-ExtraLight.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('ZTYaglo-ExtraLight.woff') format('woff'), /* Modern Browsers */
+         url('ZTYaglo-ExtraLight.woff2') format('woff2'), /* Modern Browsers */
+         url('ZTYaglo-ExtraLight.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

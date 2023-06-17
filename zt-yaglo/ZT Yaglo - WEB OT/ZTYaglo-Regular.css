@@ -1,0 +1,9 @@
+/* Webfont: ZTYaglo-Regular */@font-face {
+    font-family: 'ZTYaglo';
+    src: url('ZTYaglo-Regular.woff2') format('woff2'), /* Modern Browsers */
+         url('ZTYaglo-Regular.otf') format('opentype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

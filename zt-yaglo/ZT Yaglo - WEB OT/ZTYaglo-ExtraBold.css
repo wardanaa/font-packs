@@ -1,0 +1,9 @@
+/* Webfont: ZTYaglo-ExtraBold */@font-face {
+    font-family: 'ZTYagloExtBd';
+    src: url('ZTYaglo-ExtraBold.woff2') format('woff2'), /* Modern Browsers */
+         url('ZTYaglo-ExtraBold.otf') format('opentype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

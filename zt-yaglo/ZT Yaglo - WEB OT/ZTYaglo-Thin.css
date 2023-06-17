@@ -1,0 +1,9 @@
+/* Webfont: ZTYaglo-Thin */@font-face {
+    font-family: 'ZTYagloThin';
+    src: url('ZTYaglo-Thin.woff2') format('woff2'), /* Modern Browsers */
+         url('ZTYaglo-Thin.otf') format('opentype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
